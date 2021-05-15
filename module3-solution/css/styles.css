@@ -1,0 +1,17 @@
+
+#navbarSupportedContent > div {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.navbar {
+    margin-bottom: 10px;
+}
+
+.content{
+    height: 1000px;
+}
+
+.container-fluid {
+    padding: 0 5%;
+}
